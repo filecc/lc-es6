@@ -1,0 +1,15 @@
+{
+  "name": "lc-es6",
+  "version": "1.0.0",
+  "description": "ES6 foundamentals",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "filecc",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
